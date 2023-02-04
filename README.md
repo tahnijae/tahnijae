@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my page where I will spend hours debating what to tell you !
 
 <!--
 **tahnijae/tahnijae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am currently learning C#, but also have some self taught Python in the ole toolbox
+- I'm looking for a fun project to get involved in! If you have something you're willing to collaborate on please reach out!
+- I am very new here so be nice :)
+- I have an extremely cute lil black cat named Lola!
