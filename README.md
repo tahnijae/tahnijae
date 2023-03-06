@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I am new here, so be nice :)
 - I am currently learning C#, but also have some self taught Python in the ole toolbox
 - I'm looking for a fun project to get involved in! If you have something you're willing to collaborate on please reach out!
-- I am very new here so be nice :)
-- I have an extremely cute lil black cat named Lola!
+- I have an extremely cute black cat named Lola!
