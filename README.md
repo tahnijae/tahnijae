@@ -35,7 +35,9 @@ Here are some of the technologies and tools that I have experience with:
 
 ## 	:space_invader: GitHub Stats
 #### Stats
-![Tahni's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=tahnijae&show_icons=true&hide_border=true&theme=dracula)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tahnijae&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+-->
+![Tahni's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=tahnijae&show_icons=true&theme=dracula)
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahnijae&layout=compact&theme=dracula)](https://github.com/tahnijae/github-readme-stats)
 #### Profile Trophies
