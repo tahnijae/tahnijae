@@ -5,12 +5,15 @@ My first expereience with programming was while pursuing my undergrad in Mechani
 
 
 ## 	:woman_technologist: About Me
-- I am an avid collector of knowledge, and fun-facts: from the fluid dynamics that affect aerospace flight to the native habitiate of Spanish Moss (which is neither from Spain nor a moss!), no topic is off the table! 
-- I also enjoy collecting hobbies, but the ones that stay on repeat are: rock climbing, cooking, sailing, and watercolor painting. 
-- I managed the Hot Strip Mill department in a steel mill for 6 years. :woman_factory_worker: :fire: 👷‍♀️ I'm well versed in putting out literal fires, managing unexpected chaos, and working with sometimes difficult personalities. 
-- I'm looking for a fun project to get involved in! If you have something you'd be willing to collaborate on, please reach out!
-- I have three extremely adorable pets: a cat and two dogs. :heart_eyes_cat:
-- :vampire_woman: Dracula is my go-to VS / VSC theme 
+
+
+- :ghost:   I am an avid collector of knowledge, and fun-facts: from the fluid dynamics that affect aerospace flight to the native habitiate of Spanish Moss (which is neither from Spain nor a moss!), no topic is off the table! 
+- :climbing_woman:    I also enjoy collecting hobbies, but the ones that stay on repeat are: rock climbing, cooking, sailing, and watercolor painting. 
+- :woman_factory_worker:   I managed the Hot Strip Mill department in a steel mill for 6 years. :fire:👷‍♀️ I'm well versed in putting out literal fires, managing unexpected chaos, and working with sometimes difficult personalities. 
+- :beers:     I'm looking for a fun project to get involved in! If you have something you'd be willing to collaborate on, please reach out!
+- :heart_eyes_cat:    I have three extremely adorable pets: a cat and two dogs. 
+- :vampire_woman:     Dracula is my go-to VS / VSC theme 
+
 
 
 ## :dancers: Connect with Me
