@@ -11,10 +11,12 @@ I'm a software developer and mechanical engineer living in Cleveland, Ohio. My c
 - I have three extremely adorable pets: a cat and two dogs.
 - -Dracula is my go-to VS / VSC theme
 
+
 ## Connect with Me
 You can find me:
-- [LinkedIn]https://www.linkedin.com/in/tahnihresko/
+- [LinkedIn](https://www.linkedin.com/in/tahnihresko/)
 - **tahni.jae@gmail.com**
+
 
 ## Technologies and Tools
 Here are some of the technologies and tools that I have experience with:
@@ -32,4 +34,6 @@ Here are some of the technologies and tools that I have experience with:
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahnijae&layout=compact&theme=dracula)](https://github.com/tahnijae/github-readme-stats)
+![Tahni's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=tahnijae&show_icons=true&hide_border=true&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tahnijae)](https://github.com/tahnijae/github-profile-trophy)
 
