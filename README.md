@@ -16,7 +16,7 @@ My first expereience with programming was while pursuing my undergrad in Mechani
 ## :dancers: Connect with Me
 You can find me:
 - [LinkedIn](https://www.linkedin.com/in/tahnihresko/)
-- **tahni.jae@gmail.com**
+- [tahni.jae@gmail.com](mailto:tahni.jae@gmail.com)
 
 
 ## 	:gear: Technologies and Tools
