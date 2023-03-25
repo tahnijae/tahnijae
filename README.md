@@ -1,19 +1,16 @@
 # ✨ Hi there! I'm Tahni. Thanks for stopping by
 I'm a software developer and mechanical engineer living in Cleveland, Ohio. My current interests in software are in C#, .NET, and Python. 
 
-My first expereience with programming was while pursuing my undergrad in Mechanical Engineering at Purdue University. My freshman year, I selected CS 159 (Programming Applications for Engineers) as my science elective where I learned the fundamental principles, concepts, and methods of programming in C. During my senior year, I remember pulling an all-nighter sprucing up my Machine Design II MATLAB code purely for fun. 
+My first expereience with programming (outside of putting a super cool rotating music player on my MySpace) was while pursuing my undergrad in Mechanical Engineering at Purdue University. I selected CS 159 (Programming Applications for Engineers) as my freshman science elective, where I learned the fundamental principles, concepts, and methods of programming in C. Mostly, I remember writing a lot of loops and taking hand-written multiple choice tests on syntax. During my senior year, I pulled an all-nighter sprucing up my Machine Design II MATLAB code purely for fun... I'm not sure anyone MATLABs for fun and I probably should have realized then that I should have majored in CS...
 
 
 ## 	:woman_technologist: About Me
-
-
 - :ghost:   I am an avid collector of knowledge, and fun-facts: from the fluid dynamics that affect aerospace flight to the native habitiate of Spanish Moss (which is neither from Spain nor a moss!), no topic is off the table! 
 - :climbing_woman:    I also enjoy collecting hobbies, but the ones that stay on repeat are: rock climbing, cooking, sailing, and watercolor painting. 
 - :woman_factory_worker:   I managed the Hot Strip Mill department in a steel mill for 6 years. :fire:👷‍♀️ I'm well versed in putting out literal fires, managing unexpected chaos, and working with sometimes difficult personalities. 
 - :beers:     I'm looking for a fun project to get involved in! If you have something you'd be willing to collaborate on, please reach out!
 - :heart_eyes_cat:    I have three extremely adorable pets: a cat and two dogs. 
 - :vampire_woman:     Dracula is my go-to VS / VSC theme 
-
 
 
 ## :dancers: Connect with Me
