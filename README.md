@@ -5,7 +5,7 @@ My first expereience with programming (outside of putting a super cool rotating 
 
 
 ## 	:woman_technologist: About Me
-- :ghost:   I am an avid collector of knowledge and fun-facts: from the fluid dynamics that affect aerospace flight to the native habitiate of Spanish Moss (which is neither from Spain nor a moss!), no topic is off the table! 
+- :ghost:   I am an avid collector of knowledge and fun-facts: from the fluid dynamics that affect aerospace flight to the native habitiat of Spanish Moss (which is neither from Spain nor a moss!), no topic is off the table! 
 - :climbing_woman:    I also enjoy collecting hobbies, but the ones that stay on repeat are: rock climbing, cooking, sailing, and watercolor painting. 
 - :woman_factory_worker:   I managed the Hot Strip Mill department in a steel mill for 6 years. :fire:👷‍♀️ I'm well versed in putting out literal fires, managing unexpected chaos, and working with sometimes difficult personalities. 
 - :beers:     I'm looking for a fun project to get involved in! If you have something you'd be willing to collaborate on, please reach out!
