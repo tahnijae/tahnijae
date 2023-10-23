@@ -43,5 +43,5 @@ Here are some of the technologies and tools that I have experience with:
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahnijae&layout=compact&theme=dracula)](https://github.com/tahnijae/github-readme-stats)
 #### Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=tahnijae&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tahnijae&theme=dracula&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
