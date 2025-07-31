@@ -1,5 +1,5 @@
 # ✨ Hi there! I'm Tahni. Thanks for stopping by
-I'm a software developer and mechanical engineer living in Cleveland, Ohio. My current interests in software are in C#, .NET, and Python. 
+I'm a software developer and mechanical engineer living outside Seattle, WA. My current interests in software are in C#, .NET, Terraform, and Python. 
 
 My first expereience with programming (outside of putting a super cool rotating music player on my MySpace) was while pursuing my undergrad in Mechanical Engineering at Purdue University. I selected CS 159 (Programming Applications for Engineers) as my freshman science elective, where I learned the fundamental principles, concepts, and methods of programming in C. Mostly, I remember writing a lot of loops and taking hand-written multiple choice tests on syntax. During my senior year, I pulled an all-nighter sprucing up my Machine Design II MATLAB code purely for fun... I'm not sure anyone MATLABs for fun and I probably should have realized then that I should have majored in CS...
 
